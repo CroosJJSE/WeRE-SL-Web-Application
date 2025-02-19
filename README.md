@@ -123,15 +123,11 @@ WeRE SL Web Application is built using Google Apps Script and Google Sheets as a
 2. Enter admin password
 3. Access administrative features
 4. Process returns and new applications
+
+
 ![alt text](images/image-3.png)
-## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+![alt text](images/image-4.png)
 ## Acknowledgments
 
 * Based on Galatians 6:9
@@ -139,5 +135,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Special thanks to all contributors and beneficiaries
 
 ## Contact
-![alt text](images/image-4.png)
+
 For any queries regarding the application, please contact the WeRE SL team.
